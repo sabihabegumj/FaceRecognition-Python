@@ -1,11 +1,12 @@
 # FACE RECOGNITION
 
-> A Human Face Recognition System to track attendance and provide authentication for a course exam, built using Python, OpenCV
+> A Human Face Recognition System to track attendance and provide authentication for a course exam, built using following a tutorial on Python, OpenCV
 
 ## Table of contents
 * [Technologies](#technologies)
 * [Running the Application](#running-the-application)
 * [Screenshot](#screenshots)
+* [Acknowledgements] (#acknowledgments)
 * [Contact](#contact)
 
 ## Technologies
@@ -23,6 +24,10 @@
 
 ## Screenshot
 ![Example screenshot](./screenshot/fc1.png)
+
+## Acknowledgments
+* https://www.superdatascience.com/opencv-face-recognition/
+* https://pythonprogramming.net/haar-cascade-face-eye-detection-python-opencv-tutorial/
 
 ## Contact
 [Sabiha Begum Jaggir Hussain](https://sabihabegumj.com/) - feel free to contact me!
