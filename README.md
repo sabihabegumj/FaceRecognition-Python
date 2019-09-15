@@ -6,7 +6,7 @@
 * [Technologies](#technologies)
 * [Running the Application](#running-the-application)
 * [Screenshot](#screenshots)
-* [Acknowledgements] (#acknowledgments)
+* [Acknowledgments](#acknowledgments)
 * [Contact](#contact)
 
 ## Technologies
