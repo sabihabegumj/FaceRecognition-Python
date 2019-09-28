@@ -5,7 +5,7 @@
 ## Table of contents
 * [Technologies](#technologies)
 * [Running the Application](#running-the-application)
-* [Screenshot](#screenshots)
+* [Screenshot](#screenshot)
 * [Acknowledgments](#acknowledgments)
 * [Contact](#contact)
 
